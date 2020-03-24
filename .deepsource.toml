@@ -1,1 +1,9 @@
 version = 1
+
+test_patterns = ["Extraction_Based_Text_Summarization.ipynb"]
+
+exclude_patterns = [
+    "LICENSE",
+    "README.md",
+    "crawled_data.pickle"
+]
